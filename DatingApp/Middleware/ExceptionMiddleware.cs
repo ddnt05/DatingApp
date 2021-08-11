@@ -30,7 +30,7 @@ namespace DatingApp.Middleware
             {
                 await _next(context);
             }
-            catch(Exception ex)
+            catch(Exception ex)https://www.udemy.com/staticx/udemy/js/webpack/icon-play.ac3f32ecb72a0c3f674fa5a3f3062a56.svg
             {
                 _logger.LogError(ex, ex.Message);
                 context.Response.ContentType = "application/json";
