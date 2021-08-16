@@ -63,3 +63,5 @@ C:\Don\Coding\Udemy\DatingAppUdemy\DatingApp\DatingApp\bin\Debug\net5.0\Microsof
 C:\Don\Coding\Udemy\DatingAppUdemy\DatingApp\DatingApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Don\Coding\Udemy\DatingAppUdemy\DatingApp\DatingApp\bin\Debug\net5.0\Data\UserSeedData.json
 C:\Don\Coding\Udemy\DatingAppUdemy\DatingApp\DatingApp\obj\Debug\net5.0\staticwebassets\DatingApp.StaticWebAssets.xml
+C:\Don\Coding\Udemy\DatingAppUdemy\DatingApp\DatingApp\bin\Debug\net5.0\AutoMapper.dll
+C:\Don\Coding\Udemy\DatingAppUdemy\DatingApp\DatingApp\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
